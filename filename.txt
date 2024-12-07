@@ -1,0 +1,16 @@
+Package com.v;
+/**
+*Hello World
+*’
+*/
+Public class App
+{
+Public static void main (string[] args)
+{
+System.out.println(“This file is for the devops training”);
+}
+}
+Git status
+Git add .
+Git commit
+
